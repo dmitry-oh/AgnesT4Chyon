@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elements>
+    <Hydrogen>
+        <Proton>1</Proton>
+        <Neutron>0</Neutron>
+        <Radius>10</Radius>
+    </Hydrogen>
+    <Helium>
+        <Proton>2</Proton>
+        <Neutron>2</Neutron>
+        <Radius>45</Radius>
+    </Helium>
+    <Berrylium>
+        <Proton>3</Proton>
+        <Neutron>3</Neutron>
+        <Radius>80</Radius>
+    </Berrylium>
+</Elements>
